@@ -19,11 +19,13 @@ Under tisdagens föreläsning och LAB fick vi jobba med **Arduino IDE** och **Pl
 <img width="200" height="108" alt="Arduino_Logo_Registered svg" src="https://github.com/user-attachments/assets/390e35e5-188a-40de-b71d-fbcc864b500a" />
 
 En platform där man kan enkelt programmera interaktiva elektroniska objekt. Man skriver sin kod `(skiss)`, och kan enkelt pusha den till sin Plusivo! Platformen är väldigt populär för utbildningssyfte, då användningen är mycket enkelt. 
+Ett exempel på en programmering kan vara `Fade`, där man kan enkelt dimma en LED-lampa och kan även bestämma olika förhållanden mellan tid på och tid av, det vill säga hur snabbt LED-lampan ska släckas och sättas på.
 
 # Plusivo
 <img width="287" height="176" alt="images" src="https://github.com/user-attachments/assets/4c6d617a-1c91-4409-9fd8-d859d8925ad2" />
 
 Ett varumärke där man kan enkelt testa sig för programmering av elektroniska kompotenter. 
+
 
 
 
