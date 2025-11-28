@@ -18,10 +18,10 @@ Den får instruktioner och utför de genom olika operationer. Man kan även säg
 
 Under tisdagens föreläsning och LAB fick vi jobba med **Arduino IDE** och **Plusivo**. 
 
-# Aduino IDE
+# Arduino IDE
 <img width="200" height="108" alt="Arduino_Logo_Registered svg" src="https://github.com/user-attachments/assets/390e35e5-188a-40de-b71d-fbcc864b500a" />
 
-Platformwn där man kan enkelt programmera interaktiva elektroniska objekt. Man skriver sin kod `(skiss)`, och kan enkelt pusha den till sin Plusivo! Platformen är väldigt populär för utbildningssyfte, då användningen är mycket enkelt. 
+Platformen där man kan enkelt programmera interaktiva elektroniska objekt. Man skriver sin kod `(skiss)`, och kan enkelt pusha den till sin Plusivo! Platformen är väldigt populär för utbildningssyfte, då användningen är mycket enkelt. 
 
 
 # Plusivo
