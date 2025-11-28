@@ -6,6 +6,8 @@ I denna repository ska vi gå igenom det som vi har lärt oss under senaste för
 
 # Blink 
 Exempel på programmering kan var `BlinkProgrammeringen`, där en LED-Lampan börjar lysa i blinkande form. Man kan bestämma förhållanden mellan tid på och tid av, det vill säga hur snabbt LED-Lampan ska släckas och sättas på.
+![Blink png](https://github.com/user-attachments/assets/8036ab70-99cc-4932-ba02-fb3b25be0755)
+
 
 # Mikroprocessor? 
 ![computer-microprocessor-icon-on-white-260nw-2678923811 jpg](https://github.com/user-attachments/assets/13c6f7e3-9c54-4f9c-aa92-2917a10b1261)
