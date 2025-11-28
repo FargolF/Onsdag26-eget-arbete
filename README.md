@@ -2,12 +2,12 @@
 
 ## Välkomna till denna veckas repository! 
 
-I denna veckans repository ska vi gå igenom det som vi har lärt oss under senaste föreläsningar/LAB! 
+I denna repository ska vi gå igenom det som vi har lärt oss under senaste föreläsningar/LAB! 
 
-I måndags fick vi reda på vilka projekt som man får att jobba vidare på, och lärde vi oss hur man arbetar med mikroprocessor.  
+# Blink 
+Exempel på programmering kan var `BlinkProgrammeringen`, där en LED-Lampan börjar lysa i blinkande form. Man kan bestämma förhållanden mellan tid på och tid av, det vill säga hur snabbt LED-Lampan ska släckas och sättas på.
 
-
-# Vad är mikroprocessor? 
+# Mikroprocessor? 
 ![computer-microprocessor-icon-on-white-260nw-2678923811 jpg](https://github.com/user-attachments/assets/13c6f7e3-9c54-4f9c-aa92-2917a10b1261)
 
 En **Mikroprocessor** anses vara en dators miniatyriserad centralprocessor`(CPU)`, som beffiner sig på ett enda chip. 
@@ -18,13 +18,36 @@ Under tisdagens föreläsning och LAB fick vi jobba med **Arduino IDE** och **Pl
 # Aduino IDE
 <img width="200" height="108" alt="Arduino_Logo_Registered svg" src="https://github.com/user-attachments/assets/390e35e5-188a-40de-b71d-fbcc864b500a" />
 
-En platform där man kan enkelt programmera interaktiva elektroniska objekt. Man skriver sin kod `(skiss)`, och kan enkelt pusha den till sin Plusivo! Platformen är väldigt populär för utbildningssyfte, då användningen är mycket enkelt. 
-Ett exempel på en programmering kan vara `Fade`, där man kan enkelt dimma en LED-lampa och kan även bestämma olika förhållanden mellan tid på och tid av, det vill säga hur snabbt LED-lampan ska släckas och sättas på.
+Platformwn där man kan enkelt programmera interaktiva elektroniska objekt. Man skriver sin kod `(skiss)`, och kan enkelt pusha den till sin Plusivo! Platformen är väldigt populär för utbildningssyfte, då användningen är mycket enkelt. 
+
 
 # Plusivo
-<img width="287" height="176" alt="images" src="https://github.com/user-attachments/assets/4c6d617a-1c91-4409-9fd8-d859d8925ad2" />
+
 
 Ett varumärke där man kan enkelt testa sig för programmering av elektroniska kompotenter. 
+
+# Kod
+`void setup() {`
+
+
+  `// initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}`
+
+`// the loop function runs over and over again forever
+void loop() {`
+
+  `digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)`
+
+
+  `delay(500);                      // wait for a second`
+  
+  `digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW`
+
+
+  `delay(500);                      // wait for a second
+}`
+
 
 
 
